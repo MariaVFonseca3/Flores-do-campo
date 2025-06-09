@@ -9,4 +9,4 @@ O projeto foi desenvolvido como parte de um exercício de prática usando GitHub
 - Tema floral 🌷
 
 ## 🔗 Acesse o site
-Você pode visualizar o site publicado aqui: [https://seuusuario.github.io/flores](https://seuusuario.github.io/flores)
+Você pode visualizar o site publicado aqui:
